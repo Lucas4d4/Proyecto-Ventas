@@ -1,0 +1,367 @@
+# depslib dependency file v1.0
+1623928949 source:c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1623872151 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\clase_articulo.h
+
+1623872369 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\clase_cliente.h
+
+1624311764 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\clase_venta.h
+
+1623872067 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\menu_articulo.h
+
+1623872275 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\menu_cliente.h
+
+1623961664 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\menu_venta.h
+
+1623928888 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\clase_backup.h
+
+1623928829 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion\tecnogestion\menu_backup.h
+
+1624500370 source:c:\users\lopez\desktop\tecnogestion\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1624500370 c:\users\lopez\desktop\tecnogestion\clase_articulo.h
+
+1624503884 c:\users\lopez\desktop\tecnogestion\clase_cliente.h
+
+1624503923 c:\users\lopez\desktop\tecnogestion\clase_venta.h
+
+1623928888 c:\users\lopez\desktop\tecnogestion\clase_backup.h
+
+1624500370 c:\users\lopez\desktop\tecnogestion\menu_articulo.h
+
+1624500370 c:\users\lopez\desktop\tecnogestion\menu_cliente.h
+
+1624500370 c:\users\lopez\desktop\tecnogestion\menu_venta.h
+
+1623928829 c:\users\lopez\desktop\tecnogestion\menu_backup.h
+
+1624500370 source:c:\users\lopez\desktop\tecnogestion - copia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1624500370 c:\users\lopez\desktop\tecnogestion - copia\clase_articulo.h
+
+1624503884 c:\users\lopez\desktop\tecnogestion - copia\clase_cliente.h
+
+1624536755 c:\users\lopez\desktop\tecnogestion - copia\clase_venta.h
+
+1623928888 c:\users\lopez\desktop\tecnogestion - copia\clase_backup.h
+
+1624500370 c:\users\lopez\desktop\tecnogestion - copia\menu_articulo.h
+
+1624500370 c:\users\lopez\desktop\tecnogestion - copia\menu_cliente.h
+
+1624500370 c:\users\lopez\desktop\tecnogestion - copia\menu_venta.h
+
+1623928829 c:\users\lopez\desktop\tecnogestion - copia\menu_backup.h
+
+1625086556 source:c:\users\lopez\desktop\tecnogestion -\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"rlutil.h"
+	"utilidades.h"
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1625329602 c:\users\lopez\desktop\tecnogestion -\clase_articulo.h
+
+1625338876 c:\users\lopez\desktop\tecnogestion -\clase_cliente.h
+
+1625338807 c:\users\lopez\desktop\tecnogestion -\clase_venta.h
+
+1623928888 c:\users\lopez\desktop\tecnogestion -\clase_backup.h
+
+1625329897 c:\users\lopez\desktop\tecnogestion -\menu_articulo.h
+
+1625331516 c:\users\lopez\desktop\tecnogestion -\menu_cliente.h
+
+1625332287 c:\users\lopez\desktop\tecnogestion -\menu_venta.h
+
+1625330483 c:\users\lopez\desktop\tecnogestion -\menu_backup.h
+
+1571584339 c:\users\lopez\desktop\tecnogestion -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1599750454 c:\users\lopez\desktop\tecnogestion -\utilidades.h
+
+1626953526 source:c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Presentacion.h"
+	"utilidades.h"
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1571584339 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626902041 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\utilidades.h
+
+1626895885 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\clase_articulo.h
+
+1626959799 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\clase_cliente.h
+
+1626959777 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\clase_venta.h
+
+1626898774 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\clase_backup.h
+
+1626902041 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\menu_articulo.h
+
+1626896154 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\menu_cliente.h
+
+1626292207 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\menu_venta.h
+
+1625667747 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\menu_backup.h
+
+1626953473 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion -\presentacion.h
+
+1644957938 source:c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Presentacion.h"
+	"utilidades.h"
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1571584339 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1644849455 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\presentacion.h
+
+1644936124 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\utilidades.h
+
+1644939303 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\clase_articulo.h
+
+1644958995 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\clase_cliente.h
+
+1644877303 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\clase_venta.h
+
+1644958673 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\clase_backup.h
+
+1644939249 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\menu_articulo.h
+
+1626896154 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\menu_cliente.h
+
+1626292207 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\menu_venta.h
+
+1625667747 c:\users\lucascande\downloads\prog_y_lab\parciales\tecnogestion_-elias2\tecnogestion - - copia\menu_backup.h
+
+1644957940 source:d:\tecnogestion - - copia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Presentacion.h"
+	"utilidades.h"
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1571584340 d:\tecnogestion - - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1644849456 d:\tecnogestion - - copia\presentacion.h
+
+1644936126 d:\tecnogestion - - copia\utilidades.h
+
+1644939304 d:\tecnogestion - - copia\clase_articulo.h
+
+1644958996 d:\tecnogestion - - copia\clase_cliente.h
+
+1644877304 d:\tecnogestion - - copia\clase_venta.h
+
+1644958674 d:\tecnogestion - - copia\clase_backup.h
+
+1644939250 d:\tecnogestion - - copia\menu_articulo.h
+
+1626896156 d:\tecnogestion - - copia\menu_cliente.h
+
+1626292208 d:\tecnogestion - - copia\menu_venta.h
+
+1625667748 d:\tecnogestion - - copia\menu_backup.h
+
+1685392178 source:c:\users\usuario\documents\programacion 1\tecnogestion - - copia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Presentacion.h"
+	"utilidades.h"
+	"Clase_Articulo.h"
+	"Clase_Cliente.h"
+	"Clase_Venta.h"
+	"Clase_Backup.h"
+	"Menu_Articulo.h"
+	"Menu_Cliente.h"
+	"Menu_Venta.h"
+	"Menu_Backup.h"
+
+1571584340 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1644849456 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\presentacion.h
+
+1644936126 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\utilidades.h
+
+1644939304 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\clase_articulo.h
+
+1644958996 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\clase_cliente.h
+
+1644877304 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\clase_venta.h
+
+1644958674 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\clase_backup.h
+
+1644939250 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\menu_articulo.h
+
+1626896156 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\menu_cliente.h
+
+1626292208 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\menu_venta.h
+
+1625667748 c:\users\usuario\documents\programacion 1\tecnogestion - - copia\menu_backup.h
+
